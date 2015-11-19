@@ -24,7 +24,12 @@
     "webpack": "1.12.6"
   },
   "cordovaPlugins": [
-    "cordova-plugin-whitelist"
+    "cordova-plugin-whitelist",
+    "cordova-plugin-device",
+    "cordova-plugin-console",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-statusbar",
+    "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [
     "android",
