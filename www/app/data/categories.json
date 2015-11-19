@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ionic",
+    "displayName": "Ionic",
+    "showFilter": true
+  },
+  {
+    "name": "angular",
+    "displayName": "Angular",
+    "showFilter": true
+  },
+  {
+    "name": "communication",
+    "displayName": "Communication",
+    "showFilter": true
+  },
+  {
+    "name": "tooling",
+    "displayName": "Tooling",
+    "showFilter": true
+  },
+  {
+    "name": "design",
+    "displayName": "Design",
+    "showFilter": true
+  },
+  {
+    "name": "workshop",
+    "displayName": "Workshop",
+    "showFilter": true
+  }
+]

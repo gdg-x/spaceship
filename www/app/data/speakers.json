@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Michael Prentice",
+    "profile_pic": "https://avatars2.githubusercontent.com/u/3506071?v=3",
+    "twitter": "http://twitter.com/Splaktar",
+    "about": "Senior Software Engineer, Angular Material contributor, GDG-X contributor, product manager, surfer, GDG South Region mentor, and Android/cloud hacker.",
+    "location": "Melbourne, FL"
+  },
+  {
+    "id": "2",
+    "name": "Juan Martí",
+    "profile_pic": "https://avatars1.githubusercontent.com/u/4348632?v=3",
+    "twitter": "http://twitter.com/jmarti326",
+    "about": "GDG Puerto Rico Organizer",
+    "location": "Sam Juan, Puerto Rico"
+  },
+  {
+    "id": "3",
+    "name": "Brock McKean",
+    "profile_pic": "https://avatars3.githubusercontent.com/u/721549?v=3",
+    "twitter": "http://twitter.com/BrockMcKean",
+    "about": "President/CEO & Co-founder at Props Social Gaming Platform, Inc.",
+    "location": "Palm Bay, FL"
+  }
+]
