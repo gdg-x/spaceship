@@ -4,7 +4,7 @@
 
 # Material Ionic Hybrid GDG App
 
-This is a pre-alpha app built with the Ionic v2.0 alpha. It is still under heavy development.
+This is a pre-alpha app built with the Ionic v2.0 beta. It is still under heavy development.
 
 ## Table of Contents
  - [Getting Started](#getting-started)
@@ -13,8 +13,8 @@ This is a pre-alpha app built with the Ionic v2.0 alpha. It is still under heavy
 ## Getting Started
 
 * Clone this repository.
-* Run `npm install --production` on project root.
-* Install the ionic-cli if not already (`npm install -g ionic@alpha`)
+* Run `npm install` on project root.
+* Install the ionic-cli if not already (`npm install -g ionic@2.0.0-beta.15`)
 * Run `ionic serve` in project root.
 
 ## File Structure of App
