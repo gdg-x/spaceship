@@ -17,12 +17,6 @@ This is a pre-alpha app built with the Ionic v2.0 beta. It is still under heavy 
 * Install the ionic-cli if not already (`npm install -g ionic@beta`)
 * Run `ionic serve` in project root.
 
-## Contributing
-
-See list of contributors
-
-Maintainer: @tasomaniac and @friedger.
-
 ## File Structure of App
 
 ```
