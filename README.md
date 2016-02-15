@@ -65,7 +65,7 @@ ionic-conference-app/
 ###Contributors
 See [list of contributors](https://github.com/gdg-x/spaceship/graphs/contributors)
 
-Maintainer: [@splaktar](https://github.com/splaktar).
+Maintainer: [@splaktar](https://github.com/splaktar), [@jmarti326](https://github.com/jmarti326).
 
 ######The GDG App, GDG[x] are not endorsed and/or supported by Google, the corporation.
 
